@@ -40,3 +40,15 @@
         Steps 2, 3 and 5 of updating your repository
     </li>
 </ol>
+
+<p>
+    Branches:
+</p>
+<ol>
+    <li>
+        git branch newBranchName
+    </li>
+    <li>
+        git checkout newBranchName
+    </li>
+</ol>
