@@ -51,4 +51,19 @@
     <li>
         git checkout newBranchName
     </li>
+    <li>
+        Steps 2 and 3 of updating your repository
+    </li>
+    <li>
+        git push --set-upstream origin newBranchName
+    </li>
+    <li>
+        git checkout master
+    </li>
+    <li>
+        git merge newBranchName
+    </li>
+    <li>
+        git push
+    </li>
 </ol>
